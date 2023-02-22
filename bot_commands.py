@@ -209,7 +209,7 @@ def main() -> None:
     """Run the bot."""
     # Create the Application and pass it your bot's token.
     app = ApplicationBuilder().token(
-        "5791071729:AAEiavttEiJezSYE6RtE6H5MuCp4IZ65XBo").build()
+        "here_should_be_token").build()
 
     # Add conversation handler with the states
     conv_handler = ConversationHandler(

@@ -1,3 +1,3 @@
 # Task
-A calculator for rational and complex numbers with a logging system was created.
-The calculator is implemented in the form of telegram bot. 
+The task was to create a phone book with the function of viewing, adding new contacts, searching for a phone number by name, deleting a contact, import and export of data in several formats (csv, json).
+The interaction with the phonebook is organized through the telegram bot.
